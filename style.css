@@ -1,0 +1,13 @@
+@import url(styles/herder.css);
+
+:root {
+    --cor-de-fundo: #e5e5e5;
+    --branco: #ffffff;
+    --amarelo: #d6e90a;
+    --roxo: #1a0630;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
